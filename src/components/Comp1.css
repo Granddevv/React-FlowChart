@@ -1,0 +1,15 @@
+.comp_one_container {
+    text-align: center;
+    border: 1px solid gray;
+    width: 100%;
+    margin: 20px auto 20px auto;
+
+}
+.comp_one_container h1 {
+    color: aqua;
+}
+.comp_one_container input {
+    border: none;
+    padding: 10px;
+    outline: none;
+}
