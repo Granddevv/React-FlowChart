@@ -1,0 +1,42 @@
+[
+  {
+    "level": 0,
+    "left": "comp1",
+    "right": "comp2"
+  },
+  {
+    "level": 1,
+    "left": "comp3",
+    "right": "comp1"
+  },
+  {
+    "level": 2,
+    "left": "comp2",
+    "right": "comp2"
+  },
+  {
+    "level": 3,
+    "left": "comp1",
+    "right": "comp2"
+  },
+  {
+    "level": 4,
+    "left": "comp1",
+    "right": "comp3"
+  },
+  {
+    "level": 5,
+    "left": "comp1",
+    "right": "comp2"
+  },
+  {
+    "level": 6,
+    "left": "comp1",
+    "right": "comp2"
+  },
+  {
+    "level": 7,
+    "left": "comp1",
+    "right": "comp2"
+  }
+]
